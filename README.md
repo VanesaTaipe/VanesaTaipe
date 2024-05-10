@@ -1,6 +1,18 @@
 ### Hola soy Vanesa 👋
 #Bienvenid@ a mi repositorio<BR>
-✨ _AWS_ ✨
+✨ __ ✨
+<p style="animation: blink 1s steps(5, start) infinite">
+  ¡Hola, mundo!
+</p>
+
+<style>
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+</style>
+
 <!--
 **VanesaTaipe/VanesaTaipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
