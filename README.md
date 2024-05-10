@@ -1,11 +1,7 @@
 ### Hola soy Vanesa 👋
 #
 ✨ _Bienvenid@ a mi repositorio_ ✨
---⚡
--->
---
---
-!Hello
+
 <!--
 **VanesaTaipe/VanesaTaipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
