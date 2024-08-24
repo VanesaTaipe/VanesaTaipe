@@ -1,7 +1,7 @@
 ### Hola soy Vanesa 👋
 #
 ✨ _Bienvenid@ a mi repositorio_ ✨
-![]()
+![](https://github.com/VanesaTaipe/VanesaTaipe/blob/3241f34bd2681165035fb7e90177ecf6ed5f9842/jpeg)
 <!--
 **VanesaTaipe/VanesaTaipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
