@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, currently in my 8th semester. I specialize in AI, data science, and full-stack development. My experience includes an internship at the Translational Research and Computational Biology Laboratory, where I developed my passion for machine learning and data analysis. I'm driven by the desire to create innovative solutions that bridge the gap between data science and web development.
+I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, currently in my 8th semester. I specialize in AI, data science, and full-stack development.I'm driven by the desire to create innovative solutions that bridge the gap between data science and web development.
 
 - 🌱 I'm currently learning:
   - Advanced Machine Learning & Deep Learning
