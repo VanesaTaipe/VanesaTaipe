@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, currently in my 8th semester. I specialize in AI, data science, and full-stack development.I'm driven by the desire to create innovative solutions that bridge the gap between data science and web development.
+I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, currently in my 9th semester. I specialize in AI, data science, and full-stack development.I'm driven by the desire to create innovative solutions that bridge the gap between data science and web development.
 
 - 🌱 I'm currently learning:
   - Advanced Machine Learning & Deep Learning
@@ -17,7 +17,6 @@ I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, cur
 - 👯 I'm looking forward to collaborate on AI and open source projects
 - 🔬 Interested in: AI, Computer Vision, Data Science, and Web Development
 - ✨ Goals: Becoming a Full Stack AI Engineer
-- 📫 Reach out to me at: vanesa.morales@upch.pe
 
 ## My Skills Include
 
